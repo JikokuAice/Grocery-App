@@ -16,4 +16,4 @@ This project was build to help me undertand flutter concepts of state mangement 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at aicekark@gmail.com
+If you have any feedback, please reach out to me at aicekark@gmail.com
